@@ -75,6 +75,7 @@ const Wrapper = styled.div`
   }
   .right-section {
     /* margin-top: 10px; */
+    display: flex;
   }
 `;
 export default HeroSection;
