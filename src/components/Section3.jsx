@@ -113,7 +113,7 @@ const Wrapper = styled.div`
     width: 289px;
     height: 351px;
     text-align: center;
-    background-image: linear-gradient(#fdf6eb, #63e3ff);
+    background-image: linear-gradient(#fdf6eb, #c4f1fb);
     /* border: 1px solid red; */
 
     .img-div {
@@ -146,6 +146,7 @@ const Wrapper = styled.div`
     /* display: flex; */
     margin-left: 200px;
     margin-top: 60px;
+    margin-bottom: 120px;
     .section-one {
       display: flex;
       gap: 97px;
