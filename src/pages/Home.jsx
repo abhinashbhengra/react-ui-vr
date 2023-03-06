@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "../components/Footer";
 import HeroSection from "../components/HeroSection";
 import Navbar from "../components/Navbar";
 import Section10 from "../components/Section10";
@@ -25,6 +26,7 @@ const Home = () => {
       <Section8 />
       <Section9 />
       <Section10 />
+      <Footer />
     </>
   );
 };
