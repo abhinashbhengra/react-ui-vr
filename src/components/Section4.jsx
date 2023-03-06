@@ -156,6 +156,7 @@ const Wrapper = styled.div`
     /* position: relative; */
     display: flex;
     gap: 12px;
+    margin-bottom: 52px;
     .one-btn {
       position: relative;
       .inner {
